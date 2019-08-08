@@ -10,7 +10,7 @@ After entering one to three of your favorite beers, the app runs your choices th
 
 App created in collaboration with Tina C. and Vanich V.
 
-- Kmeans model and python app
+- Kmeans model and python flask app
 - Database: beer database and cluster database
 - Static: javascript, css files, and images
 - Templates: html files
