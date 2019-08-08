@@ -17,15 +17,11 @@ App created in collaboration with Tina C. and Vanich V.
 
 ## Build
 
-The database is created using **SQLite3**
-
-This app is built in Python using packages **numpy**, **pandas**, **sqlalchemy**, **flask**, **sklearn**, **json**
-
-The model is created using **sklearn** in Python
-
-The website pages are created using **HTML**, **bootstrap**, **Javascript**, and **CSS**
-
-The visualizations are created using **Javascript**, **D3**, and **Plotly**
+- The database is created using **SQLite3**
+- This app is built in Python using packages **numpy**, **pandas**, **sqlalchemy**, **flask**, **sklearn**, **json**
+- The model is created using **sklearn** in Python
+- The website pages are created using **HTML**, **bootstrap**, **Javascript**, and **CSS**
+- The visualizations are created using **Javascript**, **D3**, and **Plotly**
 
 ## Deployment
 
