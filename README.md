@@ -23,6 +23,8 @@ App created in collaboration with Tina C. and Vanich V.
 - The website pages are created using **HTML**, **bootstrap**, **Javascript**, and **CSS**
 - The visualizations are created using **Javascript**, **D3**, and **Plotly**
 
+![Image of Method](https://github.com/lprymak/Beer-Recommender/blob/master/static/css/images/process.png)
+
 ## Deployment
 
 https://trythisbeer.herokuapp.com/
